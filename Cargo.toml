@@ -1,0 +1,7 @@
+[package]
+name = "domain-socket"
+version = "0.1.0"
+authors = ["abhijeetbhagat <abhijeet.bhagat@gmx.com>"]
+
+[dependencies]
+unix_socket="*"
